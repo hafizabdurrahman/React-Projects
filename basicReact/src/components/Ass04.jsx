@@ -1,4 +1,5 @@
 import ProfileCard from "./ProfileCard"
+import Card from "./Card"
 function Ass04 (){
     const prop = [
         {name: "abc", role: "manager", url:"google.com"},
@@ -22,6 +23,9 @@ function Ass04 (){
                     })
                 }
             </div>
+            <Card>
+                <h1>Children Prop done</h1>
+            </Card>
         </div>
     )
 }
