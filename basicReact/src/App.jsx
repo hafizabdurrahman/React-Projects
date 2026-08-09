@@ -1,6 +1,13 @@
+import {Ass01, Ass02, Ass03, Ass04} from "./components"
+
 function App(){
   return (
-    <h1 className="text-6xl">Hello World!</h1>
+    <>
+      <Ass01 />
+      <Ass02 />
+      <Ass03 />
+      <Ass04 />
+    </>
   )
 }
 export default App
