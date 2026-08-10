@@ -1,4 +1,4 @@
-import {Ass01, Ass02, Ass03, Ass04, Ass05} from "./components"
+import {Ass01, Ass02, Ass03, Ass04, Ass05, Ass06, Ass07, Ass08, Ass09} from "./components"
 
 function App(){
   return (
@@ -8,6 +8,10 @@ function App(){
       <Ass03 />
       <Ass04 />
       <Ass05 />
+      <Ass06 />
+      <Ass07 />
+      <Ass08 />
+      <Ass09 />
     </>
   )
 }

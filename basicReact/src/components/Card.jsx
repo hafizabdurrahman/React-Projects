@@ -1,7 +1,7 @@
-function Card ({children}){
+function Card (prop){
     return(
         <div className="bg-red-400">
-            {children}
+            {prop.children}
         </div>
     )
 }
